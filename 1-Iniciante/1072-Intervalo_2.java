@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Intervalo_2
+public class 1072-Intervalo_2
 {
     static Scanner e = new Scanner(System.in);
     public static void main(String[] args) {
